@@ -9,7 +9,10 @@ This repo contain Dockerfile to build Docker image from official Jenkins image w
 
 ## Usage
 
+```
 $ git clone https://github.com/AlessandroMartini/jenkins-docker-awscli.git
+
 $ cd jenkins-docker-awscli
+
 $ docker build -t jenkins .
 ```
